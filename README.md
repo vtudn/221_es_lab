@@ -1,6 +1,6 @@
 # esp32_es
 
-**SCENARIO**: The lab work of practices with the NodeMCU ESP32 embedded board and the Espressif IoT Development Framework (ESP-IDF), which is built based on the FreeRTOS platform.
+**SCENARIO**: The lab work of practicing with the NodeMCU ESP32 embedded board and the Espressif IoT Development Framework (ESP-IDF), which is built based on the FreeRTOS platform.
 
 - *ESP32*: a dual-core system with two Xtensa LX6 CPUs, where all embedded memory, external memory and peripherals are located on the data bus and/or the instruction bus of these CPUs. It supports 2.4 GHz Wi-Fi-and-Bluetooth.
 - *NodeMCU*: an open source Lua-based firmware for the ESP32 and ESP8266 WiFi SOC from Espressif. It is implemented in C and is layered on the Espressif ESP-IDF. Up to now, the firmware can be run on any ESP module.
