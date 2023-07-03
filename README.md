@@ -8,10 +8,10 @@
 - *ESP-IDF*: a software development framework which provides basic software and hardware resources for ESP32 series.
 
 **CONTENTS**:
-- Read and write with ESP32 GPIO pins.
-- Create, schedule, and destroy tasks in FreeRTOS.
-- Configure the task scheduling algorithm (pre-emptive and co-operative) in FreeRTOS.
-- Use FreeRTOS queues for tasks intercommunication.
-- Use FreeRTOS software timer.
-- Configure ESP32 Wi-Fi subsystem as an Access Point (AP) and a Station.
-- Practice ESP32 Bluetooth Low Energy (BLE) by creating a simple server and scanner.
+- L1: Read and write with ESP32 GPIO pins.
+- L1: Create, schedule, and destroy tasks in FreeRTOS.
+- L2: Configure the task scheduling algorithm (pre-emptive and co-operative) in FreeRTOS.
+- L2: Use FreeRTOS queues for tasks intercommunication.
+- L3: Use FreeRTOS software timer.
+- L3: Configure ESP32 Wi-Fi subsystem as an Access Point (AP) and a Station.
+- L4: Practice ESP32 Bluetooth Low Energy (BLE) by creating a simple server and scanner.
